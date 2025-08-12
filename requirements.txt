@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-sqlalchemy
-databases
-pydantic
-psycopg2-binary
-passlib
-bcrypt
